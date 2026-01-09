@@ -1,0 +1,5 @@
+{
+  "name": "DocuTable AI",
+  "description": "Extract tabular data from images and PDFs instantly using Gemini AI and export to Excel.",
+  "requestFramePermissions": []
+}
