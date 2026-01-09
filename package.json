@@ -1,7 +1,7 @@
 {
   "name": "docutable-ai",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -17,6 +17,7 @@
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
+    "@types/node": "^20.11.0",
     "@types/react": "^19.2.3",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^4.0.0",
